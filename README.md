@@ -1,6 +1,6 @@
 # Hi, i'm suryanshu rawat
 
-I am pursuing BCA (Bachelor of Computer Application) from ignou. \n
+I am pursuing BCA (Bachelor of Computer Application) from ignou.
 I am doing a certificate course in python with AI.
 
 
