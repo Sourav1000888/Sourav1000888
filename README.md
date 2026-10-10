@@ -1,7 +1,6 @@
 # Hi, i'm suryanshu rawat
 
-I am pursuing BCA (Bachelor of Computer Application) from ignou.
-I am doing a certificate course in python with AI.
+I am a BCA student, and building career in AI/ML fields. I worked on Data science, Machine learning and LLM based Application.
 
 
 
