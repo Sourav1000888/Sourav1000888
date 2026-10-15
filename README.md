@@ -3,11 +3,6 @@
 I am a BCA student, and building career in AI/ML fields. I worked on Data science, Machine learning and LLM based Application.
 
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourbhrawat3@gmail.com) 
-
-
 ## 💻 Tech Stack
 
 **Languages & Data Visualization**
